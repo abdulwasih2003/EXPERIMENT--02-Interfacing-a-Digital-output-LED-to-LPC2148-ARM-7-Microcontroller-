@@ -149,12 +149,12 @@ int main()
 ~~~
 
 ## Output screen shots :
-### Layout:
-![out](3.png)
 ### LED blinking OFF:
 ![out](2.png)
 ### LED blinking ON:
-![out](1.png) 
+![out](1.png)
+### Layout:
+![out](3.png)
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed.
 
